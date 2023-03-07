@@ -1,6 +1,6 @@
-# Tagget
+# tagget
 
-Tagget is a Bash utility for dealing with file management.
+tagget is a Bash utility for dealing with file management.
 
 ## Installation
 
